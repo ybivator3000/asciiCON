@@ -1,0 +1,10 @@
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\bin\Debug\AsyncTest.exe.config
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\bin\Debug\AsyncTest.exe
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\bin\Debug\AsyncTest.pdb
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\obj\Debug\AsyncTest.csproj.AssemblyReference.cache
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\obj\Debug\AsyncTest.Form1.resources
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\obj\Debug\AsyncTest.Properties.Resources.resources
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\obj\Debug\AsyncTest.csproj.GenerateResource.cache
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\obj\Debug\AsyncTest.csproj.CoreCompileInputs.cache
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\obj\Debug\AsyncTest.exe
+C:\Users\lenidick\source\repos\AsyncTest\AsyncTest\obj\Debug\AsyncTest.pdb
