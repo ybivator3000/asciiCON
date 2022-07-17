@@ -28,8 +28,8 @@ namespace ASCIIConvertor
             {
                 for (int x = 0; x < _bitmap.Width; x++)
                 {
-                   // mapIndex = (int)Map(_bitmap.GetPixel(x, y).R, 0, 255, 0, _asciitable.Length - 1);
-                    mapIndex = (int)(_bitmap.GetPixel(x, y).R * (double)(_asciitable.Length) / 255);
+                    mapIndex = (int)Map(_bitmap.GetPixel(x, y).R, 0, 255, 0, _asciitable.Length - 1);
+                    //mapIndex = (int)(_bitmap.GetPixel(x, y).R * (double)(_asciitable.Length) / 255);
                     result += _asciitable[mapIndex];
                 }
                 result += "\n";
